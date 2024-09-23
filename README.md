@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jyotirmoy Malo</h1>
-<h3 align="center">computer science engineering student at adamas university under graduate 🎓<br><br>and a freelancer since 2020 on web development and designing 🌐<br><br> my hobby is knowing new technologies and researching on them 📖<br><br></h3>
+<h3 align="center">computer science engineering student at adamas university under graduate 🎓<br><br>and a freelancer since 2020 on web development and designing 🌐<br><br> my hobby is knowing new technologies and researching on them 📖<br><br> Visit My Company Website <a href="https://webdesert.in" style="font-weight:700;">webdesert.in</a><br><br></h3>
 
-- 🌱 I’m currently learning **computer science**
+- 🌱 I’m currently learning **computer science Engineering At Adamas University**
 
 - 👨‍💻 All of my projects are available at [webdesert.in](webdesert.in)
 
-- 📫 How to reach me **malojyotirmoy@gmail.com**
+- 📫 My Email ID **malojyotirmoy@gmail.com**
+
+- 📫 My Business Email ID **contact@webdesert.in**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jyotirmoy-malo-63827923b/](https://www.linkedin.com/in/jyotirmoy-malo-63827923b/)
 
