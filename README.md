@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jyotirmoy Malo</h1>
-<h3 align="center">computer science engineering student at adamas university under graduate 🎓 and a freelancer since 2020 on web development and designing 🌐 my hobby is knowing new technologies and researching on them 📖</h3>
+<h3 align="center">computer science engineering student at adamas university under graduate 🎓<br>and a freelancer since 2020 on web development and designing 🌐<br> my hobby is knowing new technologies and researching on them 📖</h3>
 
 - 🌱 I’m currently learning **computer science**
 
