@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jyotirmoy-malo-63827923b/](https://www.linkedin.com/in/jyotirmoy-malo-63827923b/)
 
-- ⚡ Fun fact **i am founder of webdesert.in**
+- ⚡ Fun fact **i am working on webdesert.in**
 
 - 🙏 My Few Projects are (not all)
 
